@@ -1,0 +1,10 @@
+@use "reset";
+@use "variaveis";
+
+body {
+  background-color: variaveis.$cor-principal;
+}
+
+h1 {
+  color: brown;
+}
